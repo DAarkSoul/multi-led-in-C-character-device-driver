@@ -174,7 +174,7 @@ module_init(led_init);
 module_exit(led_cleanup);
 
 /*Meta Information*/
-MODULE_AUTHOR("Vasavi");
+MODULE_AUTHOR("Durgasish");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Multiple Leds Device Driver");
 MODULE_VERSION("1.0");
